@@ -2,6 +2,13 @@
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>Nvidia Drops a Code AI Bomb: Open Source Model Crushes OpenAI!</title>
+      <description>NVIDIA just open-sourced OCR</description>
+      <enclosure url="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/test.mp3" length="12345678" type="audio/mpeg"/>
+      <pubDate>Fri, 09 May 2025 07:34:01 GMT</pubDate>
+      <guid isPermaLink="true">https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/test.mp3</guid>
+    </item>
+    <item>
       <title>Nvidia Drops a Code AI Bomb: Open Source Model Crushes OpenAI! (No Cover)</title>
       <description>NVIDIA just open-sourced OCR (Open Code Reasoning) – a suite of powerful AI models designed for code generation and reasoning! Built on the Nemotron architecture, these models (available in 32B, 14B, and 7B sizes) outperform OpenAI's o3-Mini and o1 on the LiveCodeBench benchmark. This release, powered by a high-quality code training dataset, promises to be a game-changer for developers using popular frameworks.</description>
       <enclosure url="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!_final_mix_no_cover.mp3" length="12345678" type="audio/mpeg"/>
@@ -27,7 +34,7 @@
     <link>https://yourdomain.com</link>
     <language>zh-CN</language>
     <copyright>© 2025 我的播客</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 00:23:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:26:38 +0800</lastBuildDate>
     <ns0:author>播客作者</ns0:author>
     <ns0:summary>这是一个关于技术和生活的播客</ns0:summary>
     <ns0:category text="Technology"/>
