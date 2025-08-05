@@ -1,49 +1,14 @@
 <?xml version="1.0" ?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <item>
-      <title>第1期：AI 让你不焦虑</title>
-      <description>本期内容讲述AI如何帮助内容创作者减压</description>
-      <enclosure url="https://yourdomain.com/audio/ep1.mp3" length="12345678" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:15:46 +0800</pubDate>
-      <guid isPermaLink="true">https://yourdomain.com/audio/ep1.mp3</guid>
-    </item>
-    <item>
-      <title>第1期：AI 让你不焦虑</title>
-      <description>本期内容讲述AI如何帮助内容创作者减压</description>
-      <enclosure url="https://yourdomain.com/audio/ep1.mp3" length="12345678" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:14:19 +0800</pubDate>
-      <guid isPermaLink="true">https://yourdomain.com/audio/ep1.mp3</guid>
-    </item>
-    <item>
-      <title>测试播客 - SSH密钥修复版</title>
-      <description>测试使用 id_ed25519 密钥的 Git 操作</description>
-      <enclosure url="https://example.com/test-ssh-fix.mp3" length="2000000" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:12:03 +0800</pubDate>
-      <guid isPermaLink="true">https://example.com/test-ssh-fix.mp3</guid>
-    </item>
-    <item>
-      <title>测试播客</title>
-      <description>这是一个测试播客条目</description>
-      <enclosure url="https://example.com/test.mp3" length="1000000" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:06:57 +0800</pubDate>
-      <guid isPermaLink="true">https://example.com/test.mp3</guid>
-    </item>
-    <item>
-      <title>第1期：AI 让你不焦虑</title>
-      <description>本期内容讲述AI如何帮助内容创作者减压</description>
-      <enclosure url="https://yourdomain.com/audio/ep1.mp3" length="12345678" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:06:30 +0800</pubDate>
-      <guid isPermaLink="true">https://yourdomain.com/audio/ep1.mp3</guid>
-    </item>
     <title>我的播客</title>
     <description>这是一个关于技术和生活的播客</description>
     <link>https://yourdomain.com</link>
     <language>zh-CN</language>
     <copyright>© 2025 我的播客</copyright>
-    <lastBuildDate>Tue, 05 Aug 2025 22:15:52 +0800</lastBuildDate>
-    <ns0:author>播客作者</ns0:author>
-    <ns0:summary>这是一个关于技术和生活的播客</ns0:summary>
-    <ns0:category text="Technology"/>
+    <lastBuildDate>Tue, 05 Aug 2025 22:23:34 +0800</lastBuildDate>
+    <itunes:author>播客作者</itunes:author>
+    <itunes:summary>这是一个关于技术和生活的播客</itunes:summary>
+    <itunes:category text="Technology"/>
   </channel>
 </rss>
