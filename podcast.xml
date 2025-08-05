@@ -5,6 +5,13 @@
       <title>第1期：AI 让你不焦虑</title>
       <description>本期内容讲述AI如何帮助内容创作者减压</description>
       <enclosure url="https://yourdomain.com/audio/ep1.mp3" length="12345678" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Aug 2025 22:15:46 +0800</pubDate>
+      <guid isPermaLink="true">https://yourdomain.com/audio/ep1.mp3</guid>
+    </item>
+    <item>
+      <title>第1期：AI 让你不焦虑</title>
+      <description>本期内容讲述AI如何帮助内容创作者减压</description>
+      <enclosure url="https://yourdomain.com/audio/ep1.mp3" length="12345678" type="audio/mpeg"/>
       <pubDate>Tue, 05 Aug 2025 22:14:19 +0800</pubDate>
       <guid isPermaLink="true">https://yourdomain.com/audio/ep1.mp3</guid>
     </item>
@@ -34,7 +41,7 @@
     <link>https://yourdomain.com</link>
     <language>zh-CN</language>
     <copyright>© 2025 我的播客</copyright>
-    <lastBuildDate>Tue, 05 Aug 2025 22:14:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 22:15:52 +0800</lastBuildDate>
     <ns0:author>播客作者</ns0:author>
     <ns0:summary>这是一个关于技术和生活的播客</ns0:summary>
     <ns0:category text="Technology"/>
