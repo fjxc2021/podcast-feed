@@ -5,10 +5,10 @@
     <description>A podcast about technology and life.</description>
     <link>https://yourdomain.com</link>
     <language>en-US</language>
-    <copyright>© 2025 我的播客</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 21:55:41 +0800</lastBuildDate>
-    <itunes:author>播客作者</itunes:author>
-    <itunes:summary>这是一个关于技术和生活的播客</itunes:summary>
+    <copyright>© 2025 My Podcast</copyright>
+    <lastBuildDate>Wed, 06 Aug 2025 22:03:49 +0800</lastBuildDate>
+    <itunes:author>Podcast Author</itunes:author>
+    <itunes:summary>A podcast exploring technology and lifestyle.</itunes:summary>
     <itunes:category text="Technology"/>
   </channel>
 </rss>
