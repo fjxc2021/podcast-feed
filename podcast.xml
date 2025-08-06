@@ -1,14 +1,21 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <item>
+      <title>Nvidia Drops a Code AI Bomb: Open Source Model Crushes OpenAI!</title>
+      <description>NVIDIA just open-sourced OCR (Open Code Reasoning) – a suite of powerful AI models designed for code generation and reasoning! Built on the Nemotron architecture, these models (available in 32B, 14B, and 7B sizes) outperform OpenAI's o3-Mini and o1 on the LiveCodeBench benchmark. This release, powered by a high-quality code training dataset, promises to be a game-changer for developers using popular frameworks.</description>
+      <enclosure url="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!_final_mix.mp3" image_url="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!.png" length="12345678" type="audio/mpeg"/>
+      <pubDate>Fri, 09 May 2025 07:34:01 GMT</pubDate>
+      <guid isPermaLink="true">https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!_final_mix.mp3</guid>
+    </item>
     <title>My Podcast</title>
     <description>A podcast about technology and life.</description>
     <link>https://yourdomain.com</link>
     <language>en-US</language>
     <copyright>© 2025 My Podcast</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 22:13:36 +0800</lastBuildDate>
-    <itunes:author>Podcast Author</itunes:author>
-    <itunes:summary>A podcast exploring technology and lifestyle.</itunes:summary>
-    <itunes:category text="Technology"/>
+    <lastBuildDate>Wed, 06 Aug 2025 22:13:58 +0800</lastBuildDate>
+    <ns0:author>Podcast Author</ns0:author>
+    <ns0:summary>A podcast exploring technology and lifestyle.</ns0:summary>
+    <ns0:category text="Technology"/>
   </channel>
 </rss>
