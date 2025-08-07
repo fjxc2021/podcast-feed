@@ -1,20 +1,28 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <item>
+      <title>Nvidia Drops a Code AI Bomb: Open Source Model Crushes OpenAI!</title>
+      <description>NVIDIA just open-sourced OCR (Open Code Reasoning) – a suite of powerful AI models designed for code generation and reasoning! Built on the Nemotron architecture, these models (available in 32B, 14B, and 7B sizes) outperform OpenAI's o3-Mini and o1 on the LiveCodeBench benchmark. This release, powered by a high-quality code training dataset, promises to be a game-changer for developers using popular frameworks.</description>
+      <enclosure url="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!_final_mix.mp3" length="12345678" type="audio/mpeg"/>
+      <ns0:image href="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!.png"/>
+      <pubDate>Fri, 09 May 2025 07:34:01 GMT</pubDate>
+      <guid isPermaLink="true">https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Nvidia_Drops_a_Code_AI_Bomb__Open_Source_Model_Crushes_OpenAI!_final_mix.mp3</guid>
+    </item>
     <title>Tantan Technology Club</title>
     <description>A podcast about technology and life.</description>
     <link>https://www.notion.so/Tantan-Technology-Club-248c27308fcb80c79105f3c2ca09a84d?source=copy_link</link>
     <language>en-US</language>
     <copyright>© 2025 Tantan Technology Club</copyright>
-    <lastBuildDate>Thu, 07 Aug 2025 22:48:29 +0800</lastBuildDate>
-    <itunes:image href="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Tantan_Technology_Club_.jpg"/>
+    <lastBuildDate>Thu, 07 Aug 2025 22:51:48 +0800</lastBuildDate>
+    <ns0:image href="https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Tantan_Technology_Club_.jpg"/>
     <image>
       <url>https://my-n8n-audio.s3.ap-southeast-1.amazonaws.com/Tantan_Technology_Club_.jpg</url>
       <title>Tantan Technology Club</title>
       <link>https://www.notion.so/Tantan-Technology-Club-248c27308fcb80c79105f3c2ca09a84d?source=copy_link</link>
     </image>
-    <itunes:author>Podcast Author</itunes:author>
-    <itunes:summary>A podcast exploring technology and lifestyle.</itunes:summary>
-    <itunes:category text="Technology"/>
+    <ns0:author>Podcast Author</ns0:author>
+    <ns0:summary>A podcast exploring technology and lifestyle.</ns0:summary>
+    <ns0:category text="Technology"/>
   </channel>
 </rss>
